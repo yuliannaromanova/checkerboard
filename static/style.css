@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.color1 {
+    background-color: midnightblue;
+}
+
+.color2 {
+    background-color: lightpink;
+}
+
+table tr td {
+    height: 50px;
+    width: 50px;
+}
+table {
+    display: flex;
+}
